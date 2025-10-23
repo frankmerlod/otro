@@ -1,0 +1,17 @@
+<svg width="350" height="350" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<!-- EJE X: VELOCIDAD -->
+<line x1="20" y1="380" x2="380" y2="380" stroke="#dc2626" stroke-width="4" stroke-linecap="round"/>
+<path d="M380 380 L365 372 L365 388 L380 380 Z" fill="#dc2626"/>
+
+<text x="200" y="360" font-family="Inter, sans-serif" font-size="20" font-weight="bold" fill="#dc2626" text-anchor="middle" dominant-baseline="middle">
+    VELOCIDAD
+</text>
+
+<!-- Etiquetas -->
+<text x="390" y="395" font-family="Inter, sans-serif" font-size="14" fill="#4b5563" text-anchor="end">
+    Alta V
+</text>
+
+
+</svg>
