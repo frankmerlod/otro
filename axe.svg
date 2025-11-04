@@ -3,20 +3,20 @@
 <!-- Origen -->
 <circle cx="20" cy="380" r="5" fill="#4b5563"/>
 
-<!-- EJE Y: FUERZA -->
+<!-- EJE Y: VElOCIDAD -->
 <line x1="20" y1="380" x2="20" y2="20" stroke="#1d4ed8" stroke-width="4" stroke-linecap="round"/>
 <path d="M20 20 L28 35 L12 35 L20 20 Z" fill="#1d4ed8"/>
 
 <text x="50" y="200" font-family="Inter, sans-serif" font-size="20" font-weight="bold" fill="#1d4ed8" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 50 200)">
-    FUERZA
+    VELOCIDAD
 </text>
 
-<!-- EJE X: VELOCIDAD -->
+<!-- EJE X: FUERZA -->
 <line x1="20" y1="380" x2="380" y2="380" stroke="#dc2626" stroke-width="4" stroke-linecap="round"/>
 <path d="M380 380 L365 372 L365 388 L380 380 Z" fill="#dc2626"/>
 
 <text x="200" y="360" font-family="Inter, sans-serif" font-size="20" font-weight="bold" fill="#dc2626" text-anchor="middle" dominant-baseline="middle">
-    VELOCIDAD
+    FUERZA
 </text>
 
 <!-- Etiquetas -->
@@ -24,10 +24,10 @@
     0
 </text>
 <text x="20" y="10" font-family="Inter, sans-serif" font-size="14" fill="#4b5563" text-anchor="middle">
-    Alta F
+    Alta V
 </text>
 <text x="390" y="395" font-family="Inter, sans-serif" font-size="14" fill="#4b5563" text-anchor="end">
-    Alta V
+    Alta F
 </text>
 
 
