@@ -8,7 +8,7 @@
 <path d="M20 20 L28 35 L12 35 L20 20 Z" fill="#1d4ed8"/>
 
 <text x="50" y="200" font-family="Inter, sans-serif" font-size="20" font-weight="bold" fill="#1d4ed8" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 50 200)">
-    VELOCIDAD
+    POTENCIA
 </text>
 
 <!-- EJE X: FUERZA -->
